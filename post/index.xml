@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Intelligent Robot Vison&amp;Control Research Group</title>
+    <link>https://example.com/post/</link>
+      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu6e0929c1a3c630e7e3e454838ad02ee5_310315_512x512_fill_lanczos_center_3.png</url>
+      <title>Latest News</title>
+      <link>https://example.com/post/</link>
+    </image>
+    
+    <item>
+      <title>MR Empowers Precision Medicine，RVC Team Wins Second Prize in 2022 First MedBot® Robotic Innovation Contest!</title>
+      <link>https://example.com/post/mr_medrobot_award/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/mr_medrobot_award/</guid>
+      <description>&lt;p&gt;Congratulations to Tiexin Wang, Zheyu Wu, Tanghu Pu and Haoyu Li for winning second prize in 2022 First MedBot® Robotic Innovation Contest!&lt;/p&gt;
+&lt;p&gt;The organizing committee of the 2022 First MedBot® Robotic “Da Mai Cup” Geek Innovation Contest awarded second prize to PU Tanhong, LI Haoyu, master students of Mechanical Engineering of ZJUI, class of 2021, WANG Tiexin, doctoral student of ZJUI, class of 2020, and WU Zheyu, ZJUI undergraduate, class of 2022.  With Liangjing YANG, Assistant Professor and researcher at ZJUI, serving as the team leader, the project entitled“MR-based Visual System for Cellular micromanipulation”  applied mixed reality technology (MR technology) to real-time cellular operation  through system construction. Thisvisualization of the operation processbrings+new insight into cell operation experimentation and enables Precision Medicine.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiexin Wang | Intelligent Robot Vison&amp;Control Research Group</title>
+    <link>https://example.com/author/tiexin-wang/</link>
+      <atom:link href="https://example.com/author/tiexin-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tiexin Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/tiexin-wang/avatar_hu7e52303876018d431e36f7817e3407ca_8885628_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Tiexin Wang</title>
+      <link>https://example.com/author/tiexin-wang/</link>
+    </image>
+    
+  </channel>
+</rss>

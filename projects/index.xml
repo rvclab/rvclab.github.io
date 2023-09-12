@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past Projects | Intelligent Robot Vison&amp;Control Research Group</title>
+    <link>https://example.com/projects/</link>
+      <atom:link href="https://example.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Past Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu6e0929c1a3c630e7e3e454838ad02ee5_310315_512x512_fill_lanczos_center_3.png</url>
+      <title>Past Projects</title>
+      <link>https://example.com/projects/</link>
+    </image>
+    
+    <item>
+      <title>Image Mapping Framework for Ultrasound-Guided Procedures</title>
+      <link>https://example.com/projects/img_map_framework_us_procedure/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/img_map_framework_us_procedure/</guid>
+      <description>&lt;p&gt;Summary:&lt;/p&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Image-guided Surgical Training System: A Robotic System that Learn and Teach</title>
+      <link>https://example.com/projects/img_guided_sur_train_sys/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/img_guided_sur_train_sys/</guid>
+      <description>&lt;p&gt;Summary:&lt;/p&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Robotic Augmented Reality System for Minimally Invasive Surgery</title>
+      <link>https://example.com/projects/robotic_ar_sys_mini_inv_sur/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/robotic_ar_sys_mini_inv_sur/</guid>
+      <description>&lt;p&gt;Summary:&lt;/p&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vision-Guided Robotic Micromanipulation Platform</title>
+      <link>https://example.com/projects/vision_guided_robotic_micromanipulation/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/vision_guided_robotic_micromanipulation/</guid>
+      <description>&lt;p&gt;Summary:&lt;/p&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

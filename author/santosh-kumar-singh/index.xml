@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Santosh Kumar Singh | Intelligent Robot Vison&amp;Control Research Group</title>
+    <link>https://example.com/author/santosh-kumar-singh/</link>
+      <atom:link href="https://example.com/author/santosh-kumar-singh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Santosh Kumar Singh</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu6e0929c1a3c630e7e3e454838ad02ee5_310315_512x512_fill_lanczos_center_3.png</url>
+      <title>Santosh Kumar Singh</title>
+      <link>https://example.com/author/santosh-kumar-singh/</link>
+    </image>
+    
+    <item>
+      <title>Classical Control Strategies Used in Recent Surgical Robots</title>
+      <link>https://example.com/publication/yunzeshi_control_strategies_review/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yunzeshi_control_strategies_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent challenges for haptic interface and control for robotic assisted surgical training system: A review</title>
+      <link>https://example.com/publication/liangjingyang_haptic_interface_surgical_review/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/liangjingyang_haptic_interface_surgical_review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

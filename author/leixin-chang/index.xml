@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leixin Chang | Intelligent Robot Vison&amp;Control Research Group</title>
+    <link>https://example.com/author/leixin-chang/</link>
+      <atom:link href="https://example.com/author/leixin-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leixin Chang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/leixin-chang/avatar_hu8b141eaa479eefaa3a986de1a3a146e5_625391_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Leixin Chang</title>
+      <link>https://example.com/author/leixin-chang/</link>
+    </image>
+    
+  </channel>
+</rss>

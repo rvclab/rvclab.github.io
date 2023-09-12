@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shenwei Chen | Intelligent Robot Vison&amp;Control Research Group</title>
+    <link>https://example.com/author/shenwei-chen/</link>
+      <atom:link href="https://example.com/author/shenwei-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shenwei Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu6e0929c1a3c630e7e3e454838ad02ee5_310315_512x512_fill_lanczos_center_3.png</url>
+      <title>Shenwei Chen</title>
+      <link>https://example.com/author/shenwei-chen/</link>
+    </image>
+    
+    <item>
+      <title>Design Optimization of a Mechanically Constrained Re-Localizable Remote-Center-of-Motion</title>
+      <link>https://example.com/publication/anqitan_opt_mech_rcm/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/anqitan_opt_mech_rcm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Intelligent Robot Vison&amp;Control Research Group</title>
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu6e0929c1a3c630e7e3e454838ad02ee5_310315_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://example.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Detect-Remove-Replace: A Robotic Solution That Enables Unmanned Continuous 3D Printing</title>
+      <link>https://example.com/publication/hsiheyuli_detect_remove_place/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hsiheyuli_detect_remove_place/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Clinical Validation of a Robotic Ankle-Foot Simulator With Series Elastic Actuator for Ankle Clonus Assessment Training</title>
+      <link>https://example.com/publication/yinanpei_sea_ankle/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yinanpei_sea_ankle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review on vision‐based tracking in surgical navigation</title>
+      <link>https://example.com/publication/liangjingyang_vision_tracking_review/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/liangjingyang_vision_tracking_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A control scheme for smooth transition in physical human-robot-environment between two modes: Augmentation and autonomous</title>
+      <link>https://example.com/publication/hsiehyuli_control_smooth_transition/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hsiehyuli_control_smooth_transition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Control Scheme for Physical Human-Robot Interaction Coupled with an Environment of Unknown Stiffness</title>
+      <link>https://example.com/publication/hsiehyuli_control_unknown_stiffness/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hsiehyuli_control_unknown_stiffness/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://example.com/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

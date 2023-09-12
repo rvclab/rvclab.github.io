@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher M. Zallek | Intelligent Robot Vison&amp;Control Research Group</title>
+    <link>https://example.com/author/christopher-m.-zallek/</link>
+      <atom:link href="https://example.com/author/christopher-m.-zallek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher M. Zallek</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu6e0929c1a3c630e7e3e454838ad02ee5_310315_512x512_fill_lanczos_center_3.png</url>
+      <title>Christopher M. Zallek</title>
+      <link>https://example.com/author/christopher-m.-zallek/</link>
+    </image>
+    
+    <item>
+      <title>Design and Clinical Validation of a Robotic Ankle-Foot Simulator With Series Elastic Actuator for Ankle Clonus Assessment Training</title>
+      <link>https://example.com/publication/yinanpei_sea_ankle/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yinanpei_sea_ankle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

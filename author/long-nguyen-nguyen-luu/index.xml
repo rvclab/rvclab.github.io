@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Long Nguyen Nguyen Luu | Intelligent Robot Vison&amp;Control Research Group</title>
+    <link>https://example.com/author/long-nguyen-nguyen-luu/</link>
+      <atom:link href="https://example.com/author/long-nguyen-nguyen-luu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Long Nguyen Nguyen Luu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu6e0929c1a3c630e7e3e454838ad02ee5_310315_512x512_fill_lanczos_center_3.png</url>
+      <title>Long Nguyen Nguyen Luu</title>
+      <link>https://example.com/author/long-nguyen-nguyen-luu/</link>
+    </image>
+    
+    <item>
+      <title>Detect-Remove-Replace: A Robotic Solution That Enables Unmanned Continuous 3D Printing</title>
+      <link>https://example.com/publication/hsiheyuli_detect_remove_place/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hsiheyuli_detect_remove_place/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

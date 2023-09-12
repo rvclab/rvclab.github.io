@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liangjing Yang | Intelligent Robot Vison&amp;Control Research Group</title>
+    <link>https://example.com/author/liangjing-yang/</link>
+      <atom:link href="https://example.com/author/liangjing-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liangjing Yang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu6e0929c1a3c630e7e3e454838ad02ee5_310315_512x512_fill_lanczos_center_3.png</url>
+      <title>Liangjing Yang</title>
+      <link>https://example.com/author/liangjing-yang/</link>
+    </image>
+    
+    <item>
+      <title>Application of Compliant control in Pin-Based Shape Display for Compliant Physical Interaction between Human and Machine</title>
+      <link>https://example.com/publication/yizhouhuang_wrc_2023/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yizhouhuang_wrc_2023/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design-Centric Model-Based Development of a Generalized Robotic Manipulator for Anastomosis and Ophthalmic Procedures</title>
+      <link>https://example.com/publication/haoyuli_icarm_2023/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/haoyuli_icarm_2023/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Virtual Potential Field-Based Motion Planning for Human-Robot Collaboration via Kinesthetically Guided Teleoperation</title>
+      <link>https://example.com/publication/yunzeshi_vpf_hr_teleop/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yunzeshi_vpf_hr_teleop/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/pdf_test.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Self-Recalibrating Micromanipulator System for Resilient Robotic Vision-Based Control</title>
+      <link>https://example.com/publication/tiexin_self_recalibration_case/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tiexin_self_recalibration_case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immersive Human-Robot Interaction for Dexterous Manipulation in Minimally Invasive Procedures</title>
+      <link>https://example.com/publication/jiaweiyu-_immersive_wrc_2022/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/jiaweiyu-_immersive_wrc_2022/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Detect-Remove-Replace: A Robotic Solution That Enables Unmanned Continuous 3D Printing</title>
+      <link>https://example.com/publication/hsiheyuli_detect_remove_place/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hsiheyuli_detect_remove_place/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MR Meets Robotics: A Review of Mixed Reality Technology in Robotics</title>
+      <link>https://example.com/publication/jiaweiyu_mr_meet_robotics/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/jiaweiyu_mr_meet_robotics/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Preliminary Study on Retro-reconstruction of Cell Fission Dynamic Process using Convolutional LSTM Neural Networks</title>
+      <link>https://example.com/publication/yudingwang_2021_embc/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yudingwang_2021_embc/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Educational Data Mining: Discovering Principal Factors for Better Academic Performance</title>
+      <link>https://example.com/publication/yuchengjin_2021_bdet/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yuchengjin_2021_bdet/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Visual Optimization of Ultrasound-Guided Robot-Assisted Procedures Using Variable Impedance Control</title>
+      <link>https://example.com/publication/songjiexiao_2021_wrc/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/songjiexiao_2021_wrc/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Variable Admittance Control with Robust Adaptive Velocity Control for Dynamic Physical Interaction between Robot, Human and Environment</title>
+      <link>https://example.com/publication/hsiehyuli_variable-admittance_control/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hsiehyuli_variable-admittance_control/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Design Optimization of a Mechanically Constrained Re-Localizable Remote-Center-of-Motion</title>
+      <link>https://example.com/publication/anqitan_opt_mech_rcm/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/anqitan_opt_mech_rcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Clinical Validation of a Robotic Ankle-Foot Simulator With Series Elastic Actuator for Ankle Clonus Assessment Training</title>
+      <link>https://example.com/publication/yinanpei_sea_ankle/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yinanpei_sea_ankle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classical Control Strategies Used in Recent Surgical Robots</title>
+      <link>https://example.com/publication/yunzeshi_control_strategies_review/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yunzeshi_control_strategies_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent challenges for haptic interface and control for robotic assisted surgical training system: A review</title>
+      <link>https://example.com/publication/liangjingyang_haptic_interface_surgical_review/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/liangjingyang_haptic_interface_surgical_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review on vision‐based tracking in surgical navigation</title>
+      <link>https://example.com/publication/liangjingyang_vision_tracking_review/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/liangjingyang_vision_tracking_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A control scheme for smooth transition in physical human-robot-environment between two modes: Augmentation and autonomous</title>
+      <link>https://example.com/publication/hsiehyuli_control_smooth_transition/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hsiehyuli_control_smooth_transition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell Targeting of Plant Cells Array using Uncalibrated Vision-Based Approac</title>
+      <link>https://example.com/publication/zhonghoochau_cell_target/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhonghoochau_cell_target/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Control Scheme for Physical Human-Robot Interaction Coupled with an Environment of Unknown Stiffness</title>
+      <link>https://example.com/publication/hsiehyuli_control_unknown_stiffness/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hsiehyuli_control_unknown_stiffness/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

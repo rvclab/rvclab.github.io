@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intelligent Robot Vison&amp;Control Research Group</title>
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Intelligent Robot Vison&amp;Control Research Group</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu6e0929c1a3c630e7e3e454838ad02ee5_310315_512x512_fill_lanczos_center_3.png</url>
+      <title>Intelligent Robot Vison&amp;Control Research Group</title>
+      <link>https://example.com/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://example.com/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://example.com/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Application of Compliant control in Pin-Based Shape Display for Compliant Physical Interaction between Human and Machine</title>
+      <link>https://example.com/publication/yizhouhuang_wrc_2023/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yizhouhuang_wrc_2023/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design-Centric Model-Based Development of a Generalized Robotic Manipulator for Anastomosis and Ophthalmic Procedures</title>
+      <link>https://example.com/publication/haoyuli_icarm_2023/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/haoyuli_icarm_2023/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Virtual Potential Field-Based Motion Planning for Human-Robot Collaboration via Kinesthetically Guided Teleoperation</title>
+      <link>https://example.com/publication/yunzeshi_vpf_hr_teleop/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yunzeshi_vpf_hr_teleop/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/pdf_test.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Image Mapping Framework for Ultrasound-Guided Procedures</title>
+      <link>https://example.com/projects/img_map_framework_us_procedure/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/img_map_framework_us_procedure/</guid>
+      <description>&lt;p&gt;Summary:&lt;/p&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Image-guided Surgical Training System: A Robotic System that Learn and Teach</title>
+      <link>https://example.com/projects/img_guided_sur_train_sys/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/img_guided_sur_train_sys/</guid>
+      <description>&lt;p&gt;Summary:&lt;/p&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MR Empowers Precision Medicine，RVC Team Wins Second Prize in 2022 First MedBot® Robotic Innovation Contest!</title>
+      <link>https://example.com/post/mr_medrobot_award/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/mr_medrobot_award/</guid>
+      <description>&lt;p&gt;Congratulations to Tiexin Wang, Zheyu Wu, Tanghu Pu and Haoyu Li for winning second prize in 2022 First MedBot® Robotic Innovation Contest!&lt;/p&gt;
+&lt;p&gt;The organizing committee of the 2022 First MedBot® Robotic “Da Mai Cup” Geek Innovation Contest awarded second prize to PU Tanhong, LI Haoyu, master students of Mechanical Engineering of ZJUI, class of 2021, WANG Tiexin, doctoral student of ZJUI, class of 2020, and WU Zheyu, ZJUI undergraduate, class of 2022.  With Liangjing YANG, Assistant Professor and researcher at ZJUI, serving as the team leader, the project entitled“MR-based Visual System for Cellular micromanipulation”  applied mixed reality technology (MR technology) to real-time cellular operation  through system construction. Thisvisualization of the operation processbrings+new insight into cell operation experimentation and enables Precision Medicine.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Robotic Augmented Reality System for Minimally Invasive Surgery</title>
+      <link>https://example.com/projects/robotic_ar_sys_mini_inv_sur/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/robotic_ar_sys_mini_inv_sur/</guid>
+      <description>&lt;p&gt;Summary:&lt;/p&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vision-Guided Robotic Micromanipulation Platform</title>
+      <link>https://example.com/projects/vision_guided_robotic_micromanipulation/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/vision_guided_robotic_micromanipulation/</guid>
+      <description>&lt;p&gt;Summary:&lt;/p&gt;
+&lt;p&gt;Introduction:&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Self-Recalibrating Micromanipulator System for Resilient Robotic Vision-Based Control</title>
+      <link>https://example.com/publication/tiexin_self_recalibration_case/</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tiexin_self_recalibration_case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://example.com/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced Robotics (2023 Spring)</title>
+      <link>https://example.com/teaching_source/advanced-robotics/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching_source/advanced-robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiring</title>
+      <link>https://example.com/hiring/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/hiring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Control System (2022 Spring)</title>
+      <link>https://example.com/teaching_source/modern_control_system/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching_source/modern_control_system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immersive Human-Robot Interaction for Dexterous Manipulation in Minimally Invasive Procedures</title>
+      <link>https://example.com/publication/jiaweiyu-_immersive_wrc_2022/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/jiaweiyu-_immersive_wrc_2022/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Detect-Remove-Replace: A Robotic Solution That Enables Unmanned Continuous 3D Printing</title>
+      <link>https://example.com/publication/hsiheyuli_detect_remove_place/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hsiheyuli_detect_remove_place/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MR Meets Robotics: A Review of Mixed Reality Technology in Robotics</title>
+      <link>https://example.com/publication/jiaweiyu_mr_meet_robotics/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/jiaweiyu_mr_meet_robotics/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Preliminary Study on Retro-reconstruction of Cell Fission Dynamic Process using Convolutional LSTM Neural Networks</title>
+      <link>https://example.com/publication/yudingwang_2021_embc/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yudingwang_2021_embc/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Educational Data Mining: Discovering Principal Factors for Better Academic Performance</title>
+      <link>https://example.com/publication/yuchengjin_2021_bdet/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yuchengjin_2021_bdet/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Visual Optimization of Ultrasound-Guided Robot-Assisted Procedures Using Variable Impedance Control</title>
+      <link>https://example.com/publication/songjiexiao_2021_wrc/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/songjiexiao_2021_wrc/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Variable Admittance Control with Robust Adaptive Velocity Control for Dynamic Physical Interaction between Robot, Human and Environment</title>
+      <link>https://example.com/publication/hsiehyuli_variable-admittance_control/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hsiehyuli_variable-admittance_control/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Design Optimization of a Mechanically Constrained Re-Localizable Remote-Center-of-Motion</title>
+      <link>https://example.com/publication/anqitan_opt_mech_rcm/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/anqitan_opt_mech_rcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Clinical Validation of a Robotic Ankle-Foot Simulator With Series Elastic Actuator for Ankle Clonus Assessment Training</title>
+      <link>https://example.com/publication/yinanpei_sea_ankle/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yinanpei_sea_ankle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classical Control Strategies Used in Recent Surgical Robots</title>
+      <link>https://example.com/publication/yunzeshi_control_strategies_review/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yunzeshi_control_strategies_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent challenges for haptic interface and control for robotic assisted surgical training system: A review</title>
+      <link>https://example.com/publication/liangjingyang_haptic_interface_surgical_review/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/liangjingyang_haptic_interface_surgical_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review on vision‐based tracking in surgical navigation</title>
+      <link>https://example.com/publication/liangjingyang_vision_tracking_review/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/liangjingyang_vision_tracking_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A control scheme for smooth transition in physical human-robot-environment between two modes: Augmentation and autonomous</title>
+      <link>https://example.com/publication/hsiehyuli_control_smooth_transition/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hsiehyuli_control_smooth_transition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell Targeting of Plant Cells Array using Uncalibrated Vision-Based Approac</title>
+      <link>https://example.com/publication/zhonghoochau_cell_target/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/zhonghoochau_cell_target/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Control Scheme for Physical Human-Robot Interaction Coupled with an Environment of Unknown Stiffness</title>
+      <link>https://example.com/publication/hsiehyuli_control_unknown_stiffness/</link>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hsiehyuli_control_unknown_stiffness/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Feature Extraction of Video Data for Automatic Visual Tool Tracking in Robot Assisted Surgery</title>
+      <link>https://example.com/publication/jhuang_feature_tracking/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/jhuang_feature_tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://example.com/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/preprint/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preliminary design of a robotic system for kinaesthetic training of surgical tasks</title>
+      <link>https://example.com/publication/kaiwenhong_kinaesthetic/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kaiwenhong_kinaesthetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://example.com/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://example.com/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://example.com/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

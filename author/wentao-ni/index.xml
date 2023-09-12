@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wentao Ni | Intelligent Robot Vison&amp;Control Research Group</title>
+    <link>https://example.com/author/wentao-ni/</link>
+      <atom:link href="https://example.com/author/wentao-ni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wentao Ni</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/wentao-ni/avatar_hu2b06feb94fa40abd3f64e5597782a779_317740_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Wentao Ni</title>
+      <link>https://example.com/author/wentao-ni/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xianhao Chen | Intelligent Robot Vison&amp;Control Research Group</title>
+    <link>https://example.com/author/xianhao-chen/</link>
+      <atom:link href="https://example.com/author/xianhao-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xianhao Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/xianhao-chen/avatar_hu6553a0ea0375713d9c1ca6298d2934ec_2052131_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Xianhao Chen</title>
+      <link>https://example.com/author/xianhao-chen/</link>
+    </image>
+    
+  </channel>
+</rss>

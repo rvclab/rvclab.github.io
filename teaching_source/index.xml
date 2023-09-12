@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching_sources | Intelligent Robot Vison&amp;Control Research Group</title>
+    <link>https://example.com/teaching_source/</link>
+      <atom:link href="https://example.com/teaching_source/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching_sources</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu6e0929c1a3c630e7e3e454838ad02ee5_310315_512x512_fill_lanczos_center_3.png</url>
+      <title>Teaching_sources</title>
+      <link>https://example.com/teaching_source/</link>
+    </image>
+    
+    <item>
+      <title>Advanced Robotics (2023 Spring)</title>
+      <link>https://example.com/teaching_source/advanced-robotics/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching_source/advanced-robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Control System (2022 Spring)</title>
+      <link>https://example.com/teaching_source/modern_control_system/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching_source/modern_control_system/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
