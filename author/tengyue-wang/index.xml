@@ -5,12 +5,63 @@
     <link>https://example.com/author/tengyue-wang/</link>
       <atom:link href="https://example.com/author/tengyue-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Tengyue Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/author/tengyue-wang/avatar_hu157a75107c1e004c15d0f424ce516e32_163951_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://example.com/media/icon_hu6e0929c1a3c630e7e3e454838ad02ee5_310315_512x512_fill_lanczos_center_3.png</url>
       <title>Tengyue Wang</title>
       <link>https://example.com/author/tengyue-wang/</link>
     </image>
+    
+    <item>
+      <title>Virtual Potential Field-Based Motion Planning for Human-Robot Collaboration via Kinesthetically Guided Teleoperation</title>
+      <link>https://example.com/publication/yunzeshi_vpf_hr_teleop/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/yunzeshi_vpf_hr_teleop/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/pdf_test.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+--&gt;</description>
+    </item>
+    
+    <item>
+      <title>Immersive Human-Robot Interaction for Dexterous Manipulation in Minimally Invasive Procedures</title>
+      <link>https://example.com/publication/jiaweiyu-_immersive_wrc_2022/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/jiaweiyu-_immersive_wrc_2022/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>MR Meets Robotics: A Review of Mixed Reality Technology in Robotics</title>
+      <link>https://example.com/publication/jiaweiyu_mr_meet_robotics/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/jiaweiyu_mr_meet_robotics/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This conference paper haven&amp;rsquo;t been published online yet, you can find the PDF file here.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://example.com/uploads/yizhou_wrc_2023.pdf&#34; target=&#34;_blank&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;</description>
+    </item>
     
   </channel>
 </rss>
