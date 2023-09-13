@@ -5,16 +5,11 @@
     <link>https://example.com/author/haoyu-li/</link>
       <atom:link href="https://example.com/author/haoyu-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Haoyu Li</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/author/haoyu-li/avatar_hud07f38087403a942ecff9041911610b9_10160083_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://example.com/media/icon_hu6e0929c1a3c630e7e3e454838ad02ee5_310315_512x512_fill_lanczos_center_3.png</url>
       <title>Haoyu Li</title>
       <link>https://example.com/author/haoyu-li/</link>
-    </image>
-    
-  </channel>
-</rss>
-</link>
     </image>
     
     <item>
